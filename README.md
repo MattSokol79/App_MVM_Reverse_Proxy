@@ -1,7 +1,8 @@
 # Nginx Reverse Proxy Task
 
 ## Intro
-Vagrant is able to control multiple guest machines per vagrantfile i.e. multi-machine environment.
+The focus of this task was to change the code in the Vagrant file so that the app would be running on port 80 instead of port 3000 i.e. setting up a proxy.
+The task requirements can be found under Proxy Task DOD directory
 
 ## Pre-requisites
 - Install Vagrant
