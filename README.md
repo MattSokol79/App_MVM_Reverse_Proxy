@@ -1,4 +1,4 @@
-# Mginx Reverse Proxy Task
+# Nginx Reverse Proxy Task
 
 ## Intro
 Vagrant is able to control multiple guest machines per vagrantfile i.e. multi-machine environment.
