@@ -2,7 +2,7 @@
 
 ## Intro
 The focus of this task was to change the code in the Vagrant file so that the app would be running on port 80 instead of port 3000 i.e. setting up a proxy.
-The task requirements can be found under Proxy Task DOD directory
+The task requirements can be found under [Proxy Task DOD](https://github.com/MattSokol79/App_MVM_Reverse_Proxy/tree/main/Proxy%20Task%20DOD) 
 
 ## Pre-requisites
 - Install Vagrant
