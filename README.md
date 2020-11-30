@@ -7,7 +7,6 @@ Vagrant is able to control multiple guest machines per vagrantfile i.e. multi-ma
 - Install Vagrant
 - Install VirtualBox
 - Install Ruby
-- Install Bundler
 
 ## Instructions
 To work in this box:
